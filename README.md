@@ -16,6 +16,7 @@ Lista de projetos em Jupyter Notebook:
 
 1.	**Análise de acidentes de trânsito Maio Amarelo**:                                 
 2.	**Análise de áreas contaminadas por manchas de óleo**: 
+3.  **Análise de óbitos COVID-19 MG**;
 
 ## :zap: **Tecnologia**
 
